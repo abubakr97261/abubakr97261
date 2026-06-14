@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on machine learning and computer vision projects.<br>I'm currently learning data science, manipulation and cleaning.<br>Ask me anything about my projects.
+Data, Insights and Business Analyst with a Master of Data Science and hands-on experience across analytics, 
+reporting, IAM/security data, predictive modelling and stakeholder-facing business analysis. Skilled in SQL, Python, 
+Power BI, Excel, data quality, requirements analysis and executive reporting. Able to translate business problems 
+into measurable KPIs, clean datasets, dashboards, models and recommendations. Strong fit for Data Analyst, 
+Business Analyst, Insights Analyst, Junior Data Scientist, AI/Data Research Assistant and IT analytics roles. 
 
 * Reach me via **mabubakr9726@gmail.com | muhammadabubakr149@gmail.com**
 * Portfolio preview: https://sites.google.com/view/muhammad-abubakr/home
