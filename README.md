@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on machine learning and computer vision projects.<br>I'm currently learning data science, manipulation and cleaning.<br>Ask me anything about my projects.
 
-* Reach me via **muhammadabubakr149@gmail.com**
+* Reach me via **mabubakr9726@gmail.com | muhammadabubakr149@gmail.com**
 * Portfolio preview: https://sites.google.com/view/muhammad-abubakr/home
 
 ## 🌐 Socials:
